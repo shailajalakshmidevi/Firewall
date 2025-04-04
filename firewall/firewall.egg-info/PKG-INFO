@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: firewall
+Version: 0.1.0
+Summary: A software-based firewall to analyze network traffic and enforce inbound/outbound rules.
+Home-page: https://github.com/tharaka27/firewall
+Author: Your Name
+Author-email: your.email@example.com
+
+No README file found, but this is the firewall project.
